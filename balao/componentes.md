@@ -76,7 +76,7 @@ Este documento lista os principais componentes utilizados para o balão estratos
 
 ---
 
-## TT&C (Telemetry, Tracking and Command) (Verificar se a banda deve ser necessariamente 435Mhz e verificar se a antena é ideal)**
+## TT&C (Telemetry, Tracking and Command) (Verificar se a antena é ideal)**
 
 ### Heltec WiFi LoRa 32
 - **Função**: Módulo de comunicação principal
